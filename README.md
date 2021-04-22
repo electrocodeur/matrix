@@ -1,7 +1,8 @@
-# matrix
+# Led Matrix 8x8
 Dans ce dossier vous trouvez le cablage mais aussi le programme.
 
-Si votre modèle d'afficheur est le 788BS alors vous pouvez directement brancher comme moi sinon rechercher le cablage de votre afficheur et brancher comme dans mes indications.
+Si votre modèle d'afficheur est le 788BS alors vous pouvez directement brancher comme moi,
+sinon rechercher le cablage de votre afficheur et brancher comme dans mes indications.
 ROW_1 2
 ROW_2 3
 ROW_3 4
