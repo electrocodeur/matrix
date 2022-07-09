@@ -38,3 +38,6 @@ COL_6 A1
 COL_7 A2
 
 COL_8 A3
+
+Lien vers la vidéo : https://youtu.be/X17HGM8wujk
+![alt text](https://github.com/electrocodeur/matrix/blob/main/arduinorecepteurinfrarouge.png?raw=true)
